@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 0;
+    border: 0;
+  }
+  
+  header {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: grey;
+    text-align: center;
+    font-size: 80px;
+  }
+  
+  aside {
+    text-align: center;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #A3CB38;
+    font-size: 20px;
+  }
+  
+  main {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #1289A7;
+    padding: 1rem;
+  }
+  
+  footer {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: grey;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .mary {
+    width: 111px;
+    height: 98px;
+  }
+
+  .padrao {
+    width: 112px;
+    height: 98px;
+  }
+
+  .hollow {
+    width: 113px;
+    height: 98px;
+  }
+
+  .roblox {
+    width: 113px;
+    height: 98px;
+  }
+
+  .wall {
+    width: 350px;
+  }
